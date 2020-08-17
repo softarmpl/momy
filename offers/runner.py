@@ -8,7 +8,7 @@ try:
         [
             'scrapy',
             'crawl',
-            'trojmiasto',
+            'autos',
             '-o',
             'out.json',
         ]
